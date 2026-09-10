@@ -1,4 +1,4 @@
-# Darnell
+
 
 Software developer working on audio software, developer tools, agent infrastructure, and mobile applications.
 
@@ -14,8 +14,3 @@ Software developer working on audio software, developer tools, agent infrastruct
 * Frontend and Mobile: React, React Native, Expo, Next.js, Electron, Tailwind CSS
 * Backend and Databases: Node.js, Supabase, PostgreSQL, SQLite
 * Platforms: Linux, Git, Docker
-
-## Links
-
-* GitHub: https://github.com/DRNZY
-* Email: darnell.dijksteel@gmail.com
