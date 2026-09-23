@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Darnell!</h1>
+<h1 align="center">Hi, I'm DRNZY!</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DRNZY_github_profile&left_color=royalblue&right_color=black" alt="Profile Visitors" />
 </p>
