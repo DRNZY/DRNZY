@@ -4,20 +4,14 @@
 </p>
 
 <p align="center">
-<em>Building audio software, desktop tools, and developer utilities in Rust and TypeScript.</em>
+<em>Software developer building desktop tools, audio engines, and local search systems.</em>
 </p>
-
----
-
-<h3 align="center">Languages & Tools</h3>
 
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=rust,ts,py,go,cpp,c,postgres,sqlite,react,tailwind,nextjs,electron,linux,docker,git,github" alt="Skills and tools"/>
 </a>
 </p>
-
----
 
 <table>
 <tr>
@@ -36,17 +30,17 @@
 <td width="50%" valign="top">
 <h3>Projects</h3>
 <ul>
-<li><b><a href="https://github.com/DRNZY/pluvia">Pluvia</a></b>: Rainmeter skin runtime for Linux written in Rust with Cairo rendering.</li>
-<li><b><a href="https://github.com/DRNZY/Cadence">Cadence</a></b>: Desktop audio player with DSP effects and synced LRC lyrics.</li>
-<li><b><a href="https://github.com/DRNZY/brag-ultra">Brag Ultra</a></b>: Multi-format launch video generator for AI coding agents.</li>
-<li><b><a href="https://github.com/DRNZY/hyperindex">HyperIndex</a></b>: Local code search using FTS5 BM25 and ONNX embeddings with a TUI.</li>
-<li><b><a href="https://github.com/DRNZY/Reelcipe">Reelcipe</a></b>: Recipe video extraction and grocery shopping planner.</li>
-<li><b><a href="https://github.com/DRNZY/omnihud">OmniHUD</a></b>: Ultrawide hardware telemetry and system monitor.</li>
+<li><a href="https://github.com/DRNZY/pluvia">Pluvia</a>: Rainmeter skin engine for Linux in Rust using Cairo vector graphics.</li>
+<li><a href="https://github.com/DRNZY/Cadence">Cadence</a>: Desktop music player with parametric EQ, DSP effects, and synced lyrics.</li>
+<li><a href="https://github.com/DRNZY/brag-ultra">Brag Ultra</a>: Automated launch video pipeline for AI coding tools.</li>
+<li><a href="https://github.com/DRNZY/hyperindex">HyperIndex</a>: Terminal-based code search using SQLite BM25 and ONNX embeddings.</li>
+<li><a href="https://github.com/DRNZY/Reelcipe">Reelcipe</a>: Video recipe extractor and grocery list optimizer.</li>
+<li><a href="https://github.com/DRNZY/omnihud">OmniHUD</a>: 32:9 ultrawide hardware telemetry and system monitor.</li>
 </ul>
 
 <h3>About</h3>
 <p>
-I write systems code and desktop applications, mostly working in Rust, TypeScript, and C++. Most of my projects center around audio processing, local search engines, and developer tools.
+I focus on low-latency desktop runtimes and audio software, primarily written in Rust and TypeScript.
 </p>
 </td>
 </tr>
