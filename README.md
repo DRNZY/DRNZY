@@ -1,16 +1,19 @@
+# Darnell
 
+Software developer building desktop runtimes, audio engines, developer tools, and AI infrastructure.
 
-Software developer working on audio software, developer tools, agent infrastructure, and mobile applications.
+## Selected Projects
 
-## What I am building
+* **[Pluvia](https://github.com/DRNZY/pluvia)** — Native Rainmeter desktop skin engine and manager for Linux built in Rust.
+* **[Cadence](https://github.com/DRNZY/Cadence)** — High-fidelity desktop music player, DSP acoustic engine, and synchronized lyrics canvas.
+* **[Brag Ultra](https://github.com/DRNZY/brag-ultra)** — Multi-format launch video generator and release kit pipeline for AI coding agents.
+* **[HyperIndex](https://github.com/DRNZY/hyperindex)** — Local hybrid code search engine using SQLite FTS5 BM25 and ONNX CUDA embeddings.
+* **[Reelcipe](https://github.com/DRNZY/Reelcipe)** & **PrixBon** — Multimodal recipe parser and grocery price optimization platform.
+* **[OmniHUD](https://github.com/DRNZY/omnihud)** — Ultrawide command center and live system telemetry HUD.
 
-* Cadence: A cross-platform desktop and mobile music player featuring synchronized lyrics, visualizer engines, and custom audio controls.
-* PrixBon and RecipeCapture: A multimodal recipe processing platform and grocery pricing tool.
-* Developer Tooling: Fast synchronization utilities and AST-based code analysis tools, including gdrive-turbo and Symbiont MCP.
+## Stack
 
-## Stack and Tools
-
-* Languages: TypeScript, Go, Python, C++, SQL
-* Frontend and Mobile: React, React Native, Expo, Next.js, Electron, Tailwind CSS
-* Backend and Databases: Node.js, Supabase, PostgreSQL, SQLite
-* Platforms: Linux, Git, Docker
+* **Languages:** Rust, TypeScript, Python, Go, C++, SQL
+* **Desktop & Systems:** GTK4, Libadwaita, Cairo, Pango, Wayland, X11, Electron, D-Bus
+* **Frontend & Mobile:** React, React Native, Expo, Tailwind CSS, Vite
+* **Backend & Data:** Node.js, SQLite, Supabase, PostgreSQL
