@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm DRNZY!</h1>
+<h1 align="center">Hi, I'm Darnell</h1>
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DRNZY_github_profile&left_color=royalblue&right_color=black" alt="Profile Visitors" />
 </p>
 
 <p align="center">
-<em>Software developer building desktop runtimes, audio DSP engines, developer tools, and AI infrastructure.</em>
+<em>Building audio software, desktop tools, and developer utilities in Rust and TypeScript.</em>
 </p>
 
 ---
@@ -34,19 +34,19 @@
 </p>
 </td>
 <td width="50%" valign="top">
-<h3>Featured Projects</h3>
+<h3>Projects</h3>
 <ul>
-<li><b><a href="https://github.com/DRNZY/pluvia">Pluvia</a></b> — Native Rainmeter desktop skin engine for Linux built in Rust (Cairo, Libadwaita).</li>
-<li><b><a href="https://github.com/DRNZY/Cadence">Cadence</a></b> — Studio desktop music player, DSP acoustic engine, and synchronized lyrics canvas.</li>
-<li><b><a href="https://github.com/DRNZY/brag-ultra">Brag Ultra</a></b> — Multi-format launch video generator and release kit pipeline (<code>npx skills add DRNZY/brag-ultra</code>).</li>
-<li><b><a href="https://github.com/DRNZY/hyperindex">HyperIndex</a></b> — Local hybrid search engine (SQLite FTS5 BM25 + ONNX CUDA embeddings with TUI).</li>
-<li><b><a href="https://github.com/DRNZY/Reelcipe">Reelcipe</a> & PrixBon</b> — Multimodal recipe parser and grocery price optimization platform.</li>
-<li><b><a href="https://github.com/DRNZY/omnihud">OmniHUD</a></b> — Ultrawide command center and live system telemetry HUD.</li>
+<li><b><a href="https://github.com/DRNZY/pluvia">Pluvia</a></b>: Rainmeter skin runtime for Linux written in Rust with Cairo rendering.</li>
+<li><b><a href="https://github.com/DRNZY/Cadence">Cadence</a></b>: Desktop audio player with DSP effects and synced LRC lyrics.</li>
+<li><b><a href="https://github.com/DRNZY/brag-ultra">Brag Ultra</a></b>: Multi-format launch video generator for AI coding agents.</li>
+<li><b><a href="https://github.com/DRNZY/hyperindex">HyperIndex</a></b>: Local code search using FTS5 BM25 and ONNX embeddings with a TUI.</li>
+<li><b><a href="https://github.com/DRNZY/Reelcipe">Reelcipe</a></b>: Recipe video extraction and grocery shopping planner.</li>
+<li><b><a href="https://github.com/DRNZY/omnihud">OmniHUD</a></b>: Ultrawide hardware telemetry and system monitor.</li>
 </ul>
 
-<h3>About Me</h3>
+<h3>About</h3>
 <p>
-Passionate systems and full-stack software engineer focused on high-performance desktop applications, low-latency audio processing, and AI developer utilities. When I am not designing software architectures, I enjoy exploring audio synthesis, performance benchmarking, and open-source tooling.
+I write systems code and desktop applications, mostly working in Rust, TypeScript, and C++. Most of my projects center around audio processing, local search engines, and developer tools.
 </p>
 </td>
 </tr>
