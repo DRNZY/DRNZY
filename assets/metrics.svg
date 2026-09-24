@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 250" width="820" height="250" fill="none">
+  <style>
+    .bg { fill: #09090b; stroke: #27272a; stroke-width: 1; rx: 8px; }
+    .title { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #ffffff; letter-spacing: 0.5px; }
+    .sub { font: 400 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #71717a; }
+    .stat-val { font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #ffffff; }
+    .stat-lbl { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #a1a1aa; }
+    .stat-sub { font: 400 10px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #52525b; }
+    .lang-name { font: 500 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #d4d4d8; }
+    .lang-pct { font: 400 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; fill: #71717a; }
+    .divider { stroke: #27272a; stroke-width: 1; stroke-dasharray: 4 4; }
+  </style>
+
+  <rect width="820" height="250" class="bg"/>
+
+  <!-- Left Column: Activity & Streaks -->
+  <g transform="translate(28, 26)">
+    <text x="0" y="0" class="title">ACTIVITY &amp; STREAK METRICS</text>
+    
+    <!-- 3 Stat Blocks -->
+    <!-- Total Contributions -->
+    <g transform="translate(0, 32)">
+      <text x="0" y="22" class="stat-val">465</text>
+      <text x="0" y="40" class="stat-lbl">Total Contributions</text>
+      <text x="0" y="55" class="stat-sub">Feb 20, 2025 – Present</text>
+    </g>
+
+    <!-- Current Streak -->
+    <g transform="translate(130, 32)">
+      <text x="0" y="22" class="stat-val">99 <tspan font-size="14" fill="#a1a1aa">days</tspan></text>
+      <text x="0" y="40" class="stat-lbl">Current Streak</text>
+      <text x="0" y="55" class="stat-sub">Jun 18 – Sep 24, 2026</text>
+    </g>
+
+    <!-- Longest Streak -->
+    <g transform="translate(260, 32)">
+      <text x="0" y="22" class="stat-val">99 <tspan font-size="14" fill="#a1a1aa">days</tspan></text>
+      <text x="0" y="40" class="stat-lbl">Longest Streak</text>
+      <text x="0" y="55" class="stat-sub">Jun 18 – Sep 24, 2026</text>
+    </g>
+
+    <!-- Lower Summary Row -->
+    <g transform="translate(0, 125)">
+      <circle cx="20" cy="20" r="18" fill="#18181b" stroke="#3f3f46" stroke-width="1.5"/>
+      <text x="20" y="25" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">A+</text>
+      <text x="50" y="16" class="lang-name">GitHub Ecosystem Score</text>
+      <text x="50" y="32" class="sub">High-velocity systems &amp; desktop development</text>
+    </g>
+  </g>
+
+  <!-- Vertical Divider -->
+  <line x1="420" y1="24" x2="420" y2="226" class="divider" />
+
+  <!-- Right Column: Monochrome Programming Languages -->
+  <g transform="translate(448, 26)">
+    <text x="0" y="0" class="title">PROGRAMMING LANGUAGES</text>
+    
+    <!-- Progress Bar -->
+    <g transform="translate(0, 24)">
+      <!-- Background track -->
+      <rect width="344" height="8" rx="4" fill="#18181b"/>
+      <!-- Segments: TS 45.9% = 158px, Rust 36.8% = 126px, Python 13.7% = 47px, C++/Shell 3.6% = 13px -->
+      <rect x="0" y="0" width="158" height="8" rx="4" fill="#ffffff"/>
+      <rect x="156" y="0" width="128" height="8" fill="#a1a1aa"/>
+      <rect x="282" y="0" width="49" height="8" fill="#52525b"/>
+      <rect x="329" y="0" width="15" height="8" rx="4" fill="#27272a"/>
+    </g>
+
+    <!-- Language Grid -->
+    <g transform="translate(0, 56)">
+      <!-- TypeScript -->
+      <g transform="translate(0, 0)">
+        <circle cx="5" cy="5" r="4" fill="#ffffff"/>
+        <text x="16" y="9" class="lang-name">TypeScript <tspan class="lang-pct">45.9%</tspan></text>
+      </g>
+      <!-- Rust -->
+      <g transform="translate(175, 0)">
+        <circle cx="5" cy="5" r="4" fill="#a1a1aa"/>
+        <text x="16" y="9" class="lang-name">Rust <tspan class="lang-pct">36.8%</tspan></text>
+      </g>
+      <!-- Python -->
+      <g transform="translate(0, 28)">
+        <circle cx="5" cy="5" r="4" fill="#52525b"/>
+        <text x="16" y="9" class="lang-name">Python <tspan class="lang-pct">13.7%</tspan></text>
+      </g>
+      <!-- C++ / Shell -->
+      <g transform="translate(175, 28)">
+        <circle cx="5" cy="5" r="4" fill="#27272a"/>
+        <text x="16" y="9" class="lang-name">C++ / Shell <tspan class="lang-pct">3.6%</tspan></text>
+      </g>
+    </g>
+
+    <!-- Bottom Metric Chips -->
+    <g transform="translate(0, 130)">
+      <rect x="0" y="0" width="165" height="36" rx="6" fill="#141416" stroke="#27272a" stroke-width="1"/>
+      <text x="14" y="22" class="lang-name">Primary: <tspan font-weight="700" fill="#ffffff">Rust &amp; TS</tspan></text>
+
+      <rect x="178" y="0" width="166" height="36" rx="6" fill="#141416" stroke="#27272a" stroke-width="1"/>
+      <text x="192" y="22" class="lang-name">Focus: <tspan font-weight="700" fill="#ffffff">Native Desktop</tspan></text>
+    </g>
+  </g>
+</svg>
