@@ -27,7 +27,7 @@
   <g transform="translate(570, 52)">
     <rect width="200" height="56" rx="6" fill="#141416" stroke="#27272a" stroke-width="1"/>
     <circle cx="20" cy="28" r="4" class="active-dot"/>
-    <text x="32" y="24" class="subtext" fill="#ffffff" font-weight="600">CACHYOS // LINUX</text>
+    <text x="32" y="24" class="subtext" fill="#ffffff" font-weight="600">ARTIX // LINUX</text>
     <text x="32" y="40" class="subtext">Rust · TypeScript · C++</text>
   </g>
 </svg>
